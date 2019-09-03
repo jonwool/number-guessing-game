@@ -1,4 +1,3 @@
-
 // 1. assign a random number between 1 and 100
 let randomNumber = Math.floor(Math.random() * 100) + 1;
 
@@ -124,3 +123,4 @@ function resetGame() {
   //generate a new random number
   randomNumber = Math.floor(Math.random() * 100) + 1;
 }
+
